@@ -1,0 +1,36 @@
+#joinbtn {
+  font-family: 'courier new';
+  color: #000000 !important;
+  font-size: 30px;
+  text-shadow: 1px 1px 0px #C9C9C9;
+  box-shadow: 1px 1px 1px #BFBFBF;
+  padding: 10px 25px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  border: 2px solid #969696;
+  background: #EEEEEE;
+}
+#joinbtn:hover {
+  color: #000000 !important;
+  background: #DEDEDE;
+}
+
+
+
+#txtbox {
+     padding: 9px;
+     font-family: 'courier new';
+     font-size: 50px;
+     border-width: 2px;
+     border-color: #cccccc;
+     background-color: #FFFFFF;
+     color: #000000;
+     border-style: ridge;
+     border-radius: 50px;
+     box-shadow: 0px 0px 0px rgba(255,255,255,.75);
+     text-shadow: -50px 0px 0px rgba(66,66,66,.0);
+}
+#txtbox:focus {
+     outline:none;
+}
